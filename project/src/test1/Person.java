@@ -36,6 +36,7 @@ public class Person {
 	      System.out.print("Zip Code: "); 
 	      System.out.println(zip);  
 	      
+	      
 	   }
 	}
 
