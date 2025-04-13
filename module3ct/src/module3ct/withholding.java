@@ -32,6 +32,7 @@ public class withholding {
 			taxesIncome  = userIncome * 0.30;
 			fIncome = userIncome - taxesIncome;
 		}
+		
 		// output
 		System.out.println("Income after taxes: " +  fIncome);
 		System.out.println("Weekly average tax witholding: " +  taxesIncome);
